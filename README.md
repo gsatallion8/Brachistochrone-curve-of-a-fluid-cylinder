@@ -3,7 +3,7 @@ Full article at: https://arxiv.org/abs/1712.04647
 
 ![Alt Text](https://github.com/gsatallion8/Brachistochrone-curve-of-a-fluid-cylinder/blob/master/Brachistochrone_20.gif)
 
-The shaded area is the deviation ($\delta$) of the brachistochrone curve (in red) from the cycloid (in blue). The ratio of the time taken by a rigid cylinder (dotted) as against the time taken by the fluid cyclinder (solid) is $T^*$, a performance metric for the fluid filled cylinder.
+The shaded area is the deviation ($\delta$) of the brachistochrone curve (in red) from the cycloid (in blue). The ratio of the time taken by the fluid cyclinder (solid) as against the time taken by a rigid cylinder (dotted) is $T^*$, a performance metric for the fluid filled cylinder.
 
 ![Alt Text](https://github.com/gsatallion8/Brachistochrone-curve-of-a-fluid-cylinder/blob/master/Deviations.png)
 
